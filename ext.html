@@ -55,6 +55,7 @@ function show(id){var d=DATA[id],s=status(d),hy=hydro(d),m6=maint6(d),sv=svc(d);
  '<div class="row"><span>Last service / inspection</span><span>'+fmt(d.last)+'</span></div>'+
  '<div class="row"><span>Next inspection due</span><span>'+fmt(d.next)+'</span></div>'+
  '<div class="row"><span>Manufacture year</span><span>'+fmt(d.mfg)+'</span></div>'+
+ (d.remark?'<div class="row"><span>Remarks</span><span>'+esc(d.remark)+'</span></div>':'')+
  '<div class="row"><span>Last service date</span><span>'+fmt(d.service)+'</span></div>'+
  '<div class="row"><span>Next service due (every '+svcIv(d)+' months)</span><span>'+sv.txt+'</span></div>'+
  (hy?'<div class="row"><span>Last hydro test date</span><span>'+fmt(d.hydro)+'</span></div>'+
