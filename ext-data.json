@@ -8,7 +8,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-002": {
 "site": "KPIL Camp (Main)",
@@ -19,7 +19,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-003": {
 "site": "KPIL Camp (Main)",
@@ -30,7 +30,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-004": {
 "site": "KPIL Camp (Main)",
@@ -41,7 +41,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-005": {
 "site": "KPIL Camp (Main)",
@@ -52,7 +52,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-006": {
 "site": "KPIL Camp (Main)",
@@ -63,7 +63,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-007": {
 "site": "KPIL Camp (Main)",
@@ -74,7 +74,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-008": {
 "site": "KPIL Camp (Main)",
@@ -85,7 +85,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-009": {
 "site": "KPIL Camp (Main)",
@@ -96,7 +96,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-010": {
 "site": "KPIL Camp (Main)",
@@ -107,7 +107,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-011": {
 "site": "KPIL Camp (Main)",
@@ -118,7 +118,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-012": {
 "site": "KPIL Camp (Main)",
@@ -129,7 +129,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-013": {
 "site": "KPIL Camp (Main)",
@@ -140,7 +140,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-014": {
 "site": "KPIL Camp (Main)",
@@ -151,7 +151,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-015": {
 "site": "KPIL Camp (Main)",
@@ -162,7 +162,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-016": {
 "site": "KPIL Camp (Main)",
@@ -173,7 +173,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-017": {
 "site": "KPIL Camp (Main)",
@@ -184,7 +184,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-018": {
 "site": "KPIL Camp (Main)",
@@ -195,7 +195,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-019": {
 "site": "KPIL Camp (Main)",
@@ -206,7 +206,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-020": {
 "site": "KPIL Camp (Main)",
@@ -217,7 +217,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KPM-021": {
 "site": "KPIL Camp (Main)",
@@ -228,7 +228,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-001": {
 "site": "KPIL Camp (Main)",
@@ -239,7 +239,7 @@
 "next": "2027-04-28",
 "mfg": "2019",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-002": {
 "site": "KPIL Worker Camp",
@@ -250,7 +250,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-003": {
 "site": "KPIL Worker Camp",
@@ -261,7 +261,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-004": {
 "site": "KPIL Worker Camp",
@@ -272,7 +272,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-005": {
 "site": "KPIL Worker Camp",
@@ -283,7 +283,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-006": {
 "site": "KPIL Worker Camp",
@@ -294,7 +294,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-007": {
 "site": "KPIL Worker Camp",
@@ -305,7 +305,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-008": {
 "site": "KPIL Worker Camp",
@@ -316,7 +316,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-009": {
 "site": "KPIL Worker Camp",
@@ -327,7 +327,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-010": {
 "site": "KPIL Worker Camp",
@@ -338,7 +338,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-011": {
 "site": "KPIL Worker Camp",
@@ -349,7 +349,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-012": {
 "site": "KPIL Worker Camp",
@@ -360,7 +360,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-013": {
 "site": "KPIL Worker Camp",
@@ -371,7 +371,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-014": {
 "site": "KPIL Worker Camp",
@@ -382,7 +382,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-015": {
 "site": "KPIL Worker Camp",
@@ -393,7 +393,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-016": {
 "site": "KPIL Worker Camp",
@@ -404,7 +404,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-017": {
 "site": "KPIL Worker Camp",
@@ -415,7 +415,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-018": {
 "site": "KPIL Worker Camp",
@@ -426,7 +426,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-019": {
 "site": "KPIL Worker Camp",
@@ -437,7 +437,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-020": {
 "site": "KPIL Worker Camp",
@@ -448,7 +448,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-021": {
 "site": "KPIL Worker Camp",
@@ -459,7 +459,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-022": {
 "site": "KPIL Worker Camp",
@@ -470,7 +470,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-023": {
 "site": "KPIL Worker Camp",
@@ -481,7 +481,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-024": {
 "site": "KPIL Worker Camp",
@@ -492,7 +492,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-025": {
 "site": "KPIL Worker Camp",
@@ -503,7 +503,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-026": {
 "site": "KPIL Worker Camp",
@@ -514,7 +514,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-027": {
 "site": "KPIL Worker Camp",
@@ -525,7 +525,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-028": {
 "site": "KPIL Worker Camp",
@@ -536,7 +536,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-029": {
 "site": "KPIL Worker Camp",
@@ -547,7 +547,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-030": {
 "site": "KPIL Worker Camp",
@@ -558,7 +558,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-031": {
 "site": "KPIL Worker Camp",
@@ -569,7 +569,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-032": {
 "site": "KPIL Worker Camp",
@@ -580,7 +580,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-033": {
 "site": "KPIL Worker Camp",
@@ -591,7 +591,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-034": {
 "site": "KPIL Worker Camp",
@@ -602,7 +602,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-035": {
 "site": "KPIL Worker Camp",
@@ -613,7 +613,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KWC-036": {
 "site": "KPIL Worker Camp",
@@ -624,7 +624,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-001": {
 "site": "KPIL Staff",
@@ -635,7 +635,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-002": {
 "site": "KPIL Staff",
@@ -646,7 +646,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-003": {
 "site": "KPIL Staff",
@@ -657,7 +657,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-004": {
 "site": "KPIL Staff",
@@ -668,7 +668,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-005": {
 "site": "KPIL Staff",
@@ -679,7 +679,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-006": {
 "site": "KPIL Staff",
@@ -690,7 +690,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-007": {
 "site": "KPIL Staff",
@@ -701,7 +701,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-008": {
 "site": "KPIL Staff",
@@ -712,7 +712,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-009": {
 "site": "KPIL Staff",
@@ -723,7 +723,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-010": {
 "site": "KPIL Staff",
@@ -734,7 +734,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-011": {
 "site": "KPIL Staff",
@@ -745,7 +745,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-012": {
 "site": "KPIL Staff",
@@ -756,7 +756,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-013": {
 "site": "KPIL Staff",
@@ -767,7 +767,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-014": {
 "site": "KPIL Staff",
@@ -778,7 +778,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-015": {
 "site": "KPIL Staff",
@@ -789,7 +789,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-016": {
 "site": "KPIL Staff",
@@ -800,7 +800,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-017": {
 "site": "KPIL Staff",
@@ -811,7 +811,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-018": {
 "site": "KPIL Staff",
@@ -822,7 +822,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-019": {
 "site": "KPIL Staff",
@@ -833,7 +833,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-020": {
 "site": "KPIL Staff",
@@ -844,7 +844,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-021": {
 "site": "KPIL Staff",
@@ -855,7 +855,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-022": {
 "site": "KPIL Staff",
@@ -866,7 +866,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-023": {
 "site": "KPIL Staff",
@@ -877,7 +877,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-024": {
 "site": "KPIL Staff",
@@ -888,7 +888,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-025": {
 "site": "KPIL Staff",
@@ -899,7 +899,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-026": {
 "site": "KPIL Staff",
@@ -910,7 +910,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-027": {
 "site": "KPIL Staff",
@@ -921,7 +921,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-028": {
 "site": "KPIL Staff",
@@ -932,7 +932,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-029": {
 "site": "KPIL Staff",
@@ -943,7 +943,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-030": {
 "site": "KPIL Staff",
@@ -954,7 +954,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-031": {
 "site": "KPIL Staff",
@@ -965,7 +965,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-032": {
 "site": "KPIL Staff",
@@ -976,7 +976,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-033": {
 "site": "KPIL Staff",
@@ -987,7 +987,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-034": {
 "site": "KPIL Staff",
@@ -998,7 +998,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-035": {
 "site": "KPIL Staff",
@@ -1009,7 +1009,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-036": {
 "site": "KPIL Staff",
@@ -1020,7 +1020,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-037": {
 "site": "KPIL Staff",
@@ -1031,7 +1031,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-038": {
 "site": "KPIL Staff",
@@ -1042,7 +1042,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-039": {
 "site": "KPIL Staff",
@@ -1053,7 +1053,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-040": {
 "site": "KPIL Staff",
@@ -1064,7 +1064,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-041": {
 "site": "KPIL Staff",
@@ -1075,7 +1075,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-042": {
 "site": "KPIL Staff",
@@ -1086,7 +1086,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-043": {
 "site": "KPIL Staff",
@@ -1097,7 +1097,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KST-044": {
 "site": "KPIL Staff",
@@ -1108,7 +1108,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-001": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1119,7 +1119,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-002": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1130,7 +1130,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-003": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1141,7 +1141,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-004": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1152,7 +1152,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-005": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1163,7 +1163,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-006": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1174,7 +1174,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-007": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1185,7 +1185,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-008": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1196,7 +1196,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-009": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1207,7 +1207,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-010": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1218,7 +1218,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-011": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1229,7 +1229,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-012": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1240,7 +1240,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-013": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1251,7 +1251,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-014": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1262,7 +1262,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-015": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1273,7 +1273,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-016": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1284,7 +1284,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KSO-017": {
 "site": "KPIL Staff + Office + Kitchen",
@@ -1295,7 +1295,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-001": {
 "site": "Aramco Camp",
@@ -1306,7 +1306,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-002": {
 "site": "Aramco Camp",
@@ -1317,7 +1317,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-003": {
 "site": "Aramco Camp",
@@ -1328,7 +1328,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-004": {
 "site": "Aramco Camp",
@@ -1339,7 +1339,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-005": {
 "site": "Aramco Camp",
@@ -1350,7 +1350,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-006": {
 "site": "Aramco Camp",
@@ -1361,7 +1361,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-007": {
 "site": "Aramco Camp",
@@ -1372,7 +1372,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-008": {
 "site": "Aramco Camp",
@@ -1383,7 +1383,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-009": {
 "site": "Aramco Camp",
@@ -1394,7 +1394,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-010": {
 "site": "Aramco Camp",
@@ -1405,7 +1405,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-011": {
 "site": "Aramco Camp",
@@ -1416,7 +1416,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-012": {
 "site": "Aramco Camp",
@@ -1427,7 +1427,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-013": {
 "site": "Aramco Camp",
@@ -1438,7 +1438,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-014": {
 "site": "Aramco Camp",
@@ -1449,7 +1449,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-015": {
 "site": "Aramco Camp",
@@ -1460,7 +1460,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-016": {
 "site": "Aramco Camp",
@@ -1471,7 +1471,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-017": {
 "site": "Aramco Camp",
@@ -1482,7 +1482,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-018": {
 "site": "Aramco Camp",
@@ -1493,7 +1493,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-019": {
 "site": "Aramco Camp",
@@ -1504,7 +1504,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-020": {
 "site": "Aramco Camp",
@@ -1515,7 +1515,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-021": {
 "site": "Aramco Camp",
@@ -1526,7 +1526,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-022": {
 "site": "Aramco Camp",
@@ -1537,7 +1537,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-023": {
 "site": "Aramco Camp",
@@ -1548,7 +1548,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-024": {
 "site": "Aramco Camp",
@@ -1559,7 +1559,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-025": {
 "site": "Aramco Camp",
@@ -1570,7 +1570,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-026": {
 "site": "Aramco Camp",
@@ -1581,7 +1581,7 @@
 "next": "2027-04-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARC-027": {
 "site": "Aramco Camp",
@@ -1592,7 +1592,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-001": {
 "site": "Aramco Camp (Page 2)",
@@ -1603,7 +1603,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-002": {
 "site": "Aramco Camp (Page 2)",
@@ -1614,7 +1614,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-003": {
 "site": "Aramco Camp (Page 2)",
@@ -1625,7 +1625,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-004": {
 "site": "Aramco Camp (Page 2)",
@@ -1636,7 +1636,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-005": {
 "site": "Aramco Camp (Page 2)",
@@ -1647,7 +1647,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-006": {
 "site": "Aramco Camp (Page 2)",
@@ -1658,7 +1658,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-007": {
 "site": "Aramco Camp (Page 2)",
@@ -1669,7 +1669,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-008": {
 "site": "Aramco Camp (Page 2)",
@@ -1680,7 +1680,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-009": {
 "site": "Aramco Camp (Page 2)",
@@ -1691,7 +1691,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-010": {
 "site": "Aramco Camp (Page 2)",
@@ -1702,7 +1702,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-011": {
 "site": "Aramco Camp (Page 2)",
@@ -1713,7 +1713,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-012": {
 "site": "Aramco Camp (Page 2)",
@@ -1724,7 +1724,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-013": {
 "site": "Aramco Camp (Page 2)",
@@ -1735,7 +1735,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "ARD-014": {
 "site": "Aramco Camp (Page 2)",
@@ -1746,7 +1746,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-001": {
 "site": "Aramco Office / Kitchen",
@@ -1757,7 +1757,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-002": {
 "site": "Aramco Office / Kitchen",
@@ -1768,7 +1768,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-003": {
 "site": "Aramco Office / Kitchen",
@@ -1779,7 +1779,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-004": {
 "site": "Aramco Office / Kitchen",
@@ -1790,7 +1790,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-005": {
 "site": "Aramco Office / Kitchen",
@@ -1801,7 +1801,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-006": {
 "site": "Aramco Office / Kitchen",
@@ -1812,7 +1812,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-007": {
 "site": "Aramco Office / Kitchen",
@@ -1823,7 +1823,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-008": {
 "site": "Aramco Office / Kitchen",
@@ -1834,7 +1834,7 @@
 "next": "2027-04-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-009": {
 "site": "Aramco Office / Kitchen",
@@ -1845,7 +1845,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "AOK-010": {
 "site": "Aramco Office / Kitchen",
@@ -1856,7 +1856,7 @@
 "next": "2027-04-28",
 "mfg": "2023",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-001": {
 "site": "FH-01",
@@ -1867,7 +1867,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-002": {
 "site": "FH-02",
@@ -1878,7 +1878,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-003": {
 "site": "FH-03",
@@ -1889,7 +1889,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-004": {
 "site": "FH-04",
@@ -1900,7 +1900,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-005": {
 "site": "FH-05",
@@ -1911,7 +1911,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-006": {
 "site": "FH-06",
@@ -1922,7 +1922,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-007": {
 "site": "FH-07",
@@ -1933,7 +1933,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": "",
+"service": "2026-10-29",
 "remark": "opener missing"
 },
 "HRL-008": {
@@ -1945,7 +1945,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-009": {
 "site": "FH-09",
@@ -1956,7 +1956,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-010": {
 "site": "FH-10",
@@ -1967,7 +1967,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-011": {
 "site": "FH-11",
@@ -1978,7 +1978,7 @@
 "next": "2027-01-28",
 "mfg": "2011",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-012": {
 "site": "FH-12",
@@ -1989,7 +1989,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-013": {
 "site": "FH-13",
@@ -2000,7 +2000,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-014": {
 "site": "FH-14",
@@ -2011,7 +2011,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-015": {
 "site": "FH-15",
@@ -2022,7 +2022,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-016": {
 "site": "FH-16",
@@ -2033,7 +2033,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-017": {
 "site": "FH-17",
@@ -2044,7 +2044,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "HRL-018": {
 "site": "FH-18",
@@ -2055,7 +2055,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "KHD-001": {
 "site": "Kitchen Hood Systems",
@@ -2066,7 +2066,7 @@
 "next": "2027-01-28",
 "mfg": "2022",
 "hydro": "",
-"service": "",
+"service": "2026-10-29",
 "remark": "fusible 2020"
 },
 "KHD-002": {
@@ -2078,7 +2078,7 @@
 "next": "2027-01-28",
 "mfg": "2022",
 "hydro": "",
-"service": "",
+"service": "2026-10-29",
 "remark": "fusible 2021"
 },
 "KHD-003": {
@@ -2090,7 +2090,7 @@
 "next": "2027-01-28",
 "mfg": "2023",
 "hydro": "",
-"service": "",
+"service": "2026-10-29",
 "remark": "fusible 2017"
 },
 "KHD-004": {
@@ -2102,7 +2102,7 @@
 "next": "2027-01-28",
 "mfg": "2022",
 "hydro": "",
-"service": "",
+"service": "2026-10-29",
 "remark": "fusible 2023"
 },
 "KHD-005": {
@@ -2114,7 +2114,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": "",
+"service": "2026-10-29",
 "remark": "fusible 2023"
 },
 "FAP-001": {
@@ -2126,7 +2126,7 @@
 "next": "2027-01-28",
 "mfg": "",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "FAP-002": {
 "site": "Fire Alarm Panels",
@@ -2137,7 +2137,7 @@
 "next": "2027-01-28",
 "mfg": "",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "FPM-001": {
 "site": "Fire Pump Room",
@@ -2148,7 +2148,7 @@
 "next": "2027-01-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "FPM-002": {
 "site": "Fire Pump Room",
@@ -2159,7 +2159,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "FPM-003": {
 "site": "Fire Pump Room",
@@ -2170,7 +2170,7 @@
 "next": "2027-01-28",
 "mfg": "2024",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 },
 "FPM-004": {
 "site": "Fire Pump Room",
@@ -2181,6 +2181,6 @@
 "next": "2027-01-28",
 "mfg": "2025",
 "hydro": "",
-"service": ""
+"service": "2026-10-29"
 }
 }
